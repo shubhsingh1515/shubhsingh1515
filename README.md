@@ -8,7 +8,7 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhsingh1515&label=Profile%20views&color=0e75b6&style=flat" alt="ShubhamSingh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhsingh1515" alt="ShubhamSingh" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=shubhsingh1515" alt="ShubhamSingh" /></a> </p>
 
 <p align="left"> <a href=" https://x.com/Shubh_singh1515" target="blank"><img src="https://img.shields.io/twitter/follow/ShubhamSingh?logo=twitter&style=for-the-badge" alt="ShubhamSingh" /></a> </p>
 
