@@ -2,9 +2,10 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 </br>
-<p>An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.<br/>
-I am a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and 
-positivity.Now I am looking for an opportunity as a full stack web developer with room to grow and learn.</p>
+<p>As an aspiring full-stack developer specializing in the MERN stack, I am driven by a profound passion for continuous learning and an insatiable curiosity. My technical journey is fueled by an unwavering optimism and a relentless pursuit of knowledge.</br>
+I thrive on tackling new challenges and acquiring new skills, always eager to push the boundaries of my expertise. My social nature enables me to engage effectively with diverse teams, fostering an environment of collaboration, innovation, and knowledge sharing.</br>
+Currently, I am seeking a dynamic role as a full-stack web developer, where I can leverage my technical proficiency and enthusiasm for development to contribute meaningfully to innovative projects.</br>
+I am particularly interested in opportunities that provide room for growth, learning, and the chance to work on cutting-edge technologies and impactful solutions.</p>
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhsingh1515&label=Profile%20views&color=0e75b6&style=flat" alt="ShubhamSingh" /> </p>
 
@@ -35,16 +36,16 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 <a href="https://www.facebook.com/profile.php?id=100038375522490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100038375522490" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shubh_singh1515/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ShubhamSingh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ssp41959" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ShubhamSingh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shubham4850" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ShubhamSingh" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Shubh1515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ShubhamSingh" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/shubhsingh1515/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/shubhsingh1515/" height="30" width="40" /></a>
 </p>
 </br>
 
 <h2 align="left">Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 </br>
+
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" /> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
@@ -52,7 +53,6 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> </a>
 </br>
 
@@ -76,8 +76,8 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhsingh1515&" alt="ShubhamSingh" /></p>
 
 <h2>LeetCode Status 📊</h2>
-<p> <a href="https://github.com/shubham4850/LeetCode-Stats-Card" target="_blank">
-    <img title="ShubhamSingh LeetCode Stats" alt="ShubhamSingh's LeetCode Stats" src="https://leetcard.jacoblin.cool/shubham4850?ext=heatmap" /> </p>
+<p> <a href="https://github.com/Shubh1515/LeetCode-Stats-Card" target="_blank">
+    <img title="ShubhamSingh LeetCode Stats" alt="ShubhamSingh's LeetCode Stats" src="https://leetcard.jacoblin.cool/Shubh1515?ext=heatmap" /> </p>
  
  <h2>Hackerrank Status 📊</h2>
  <p>  <a href="https://www.hackerrank.com/ssp41959" target="blank">
