@@ -18,7 +18,7 @@ I am particularly interested in opportunities that provide room for growth, lear
 ## About Me
 * 🌍  Based in Varanasi, India.
 * 🔭 Currently developing MERN Stack web applications.
-* 🌱 Actively learning the MERN stack, data structures, algorithms, and advanced React-Native techniques.
+* 🌱 Actively learning the MERN stack, data structures, algorithms.
 * 👯 Seeking collaboration opportunities on Open Source Projects.
 * 🤔 Looking for guidance on developing web applications.
 * 📫 Reach me at shubhsingh1515@gmail.com.
