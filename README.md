@@ -31,8 +31,8 @@ I am particularly interested in opportunities that provide room for growth, lear
 <h2 align="left">Connect with me <img src='https://user-images.githubusercontent.com/69167064/159184623-31d54ed6-95b7-4522-9da7-2ce0d07457df.gif' width="80px"></h2>
 </br>
 <p align="left">
-<a href="https://x.com/Shubh_singh1515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yamanrajsingh" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/shubhsingh1515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ShubhamSingh" height="30" width="40" /></a>
+<a href="https://x.com/Shubh_singh1515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShubhamSingh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shubhsingh1515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ShubhamSingh" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100038375522490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100038375522490" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shubh_singh1515/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ShubhamSingh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ssp41959" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ShubhamSingh" height="30" width="40" /></a>
