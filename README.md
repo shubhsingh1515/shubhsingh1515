@@ -11,7 +11,7 @@ I am particularly interested in opportunities that provide room for growth, lear
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=shubhsingh1515" alt="ShubhamSingh" /></a> </p>
 
-<p align="left"> <a href=" https://x.com/Shubh_singh1515" target="blank"><img src="https://img.shields.io/twitter/follow/ShubhamSingh?logo=twitter&style=for-the-badge" alt="ShubhamSingh" /></a> </p>
+<p align="left"> <a href="https://x.com/shubh_singh1515" target="blank"><img src="https://img.shields.io/twitter/follow/ShubhamSingh?logo=twitter&style=for-the-badge" alt="ShubhamSingh" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
