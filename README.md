@@ -35,8 +35,8 @@ I am particularly interested in opportunities that provide room for growth, lear
 <a href="https://www.linkedin.com/in/shubhsingh1515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ShubhamSingh" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100038375522490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100038375522490" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shubh_singh1515/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ShubhamSingh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ssp41959" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ShubhamSingh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Shubh1515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ShubhamSingh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shubh1515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ShubhamSingh" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shubh1515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ShubhamSingh" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/shubhsingh1515/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/shubhsingh1515/" height="30" width="40" /></a>
 </p>
 </br>
@@ -76,11 +76,11 @@ I am particularly interested in opportunities that provide room for growth, lear
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhsingh1515&" alt="ShubhamSingh" /></p>
 
 <h2>LeetCode Status 📊</h2>
-<p> <a href="https://github.com/Shubh1515/LeetCode-Stats-Card" target="_blank">
-    <img title="ShubhamSingh LeetCode Stats" alt="ShubhamSingh's LeetCode Stats" src="https://leetcard.jacoblin.cool/Shubh1515?ext=heatmap" /> </p>
+<p> <a href="https://github.com/shubh1515/LeetCode-Stats-Card" target="_blank">
+    <img title="ShubhamSingh LeetCode Stats" alt="ShubhamSingh's LeetCode Stats" src="https://leetcard.jacoblin.cool/shubh1515?ext=heatmap" /> </p>
  
  <h2>Hackerrank Status 📊</h2>
- <p>  <a href="https://www.hackerrank.com/ssp41959" target="blank">
+ <p>  <a href="https://www.hackerrank.com/shubh1515" target="blank">
    <img src="https://github.com/shubhsingh1515/shubhsingh1515/blob/main/badges.png" alt="Badges"/>
  <img src="https://github.com/shubhsingh1515/shubhsingh1515/blob/main/certificates.png" alt="Certificates"/>
  </p>
