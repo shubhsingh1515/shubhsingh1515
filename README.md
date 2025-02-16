@@ -84,3 +84,7 @@ I am particularly interested in opportunities that provide room for growth, lear
    <img src="https://github.com/shubhsingh1515/shubhsingh1515/blob/main/badges.png" alt="Badges"/>
  <img src="https://github.com/shubhsingh1515/shubhsingh1515/blob/main/certificates.png" alt="Certificates"/>
  </p>
+
+ <h2>Dev Card</h2>
+<p><a href="https://app.daily.dev/shubh1515"><img src="https://api.daily.dev/devcards/v2/WYbg2emGISyeYm4CPfwb2.png?type=default&r=ig2" width="356" alt="Shubham Singh's Dev Card"/></a></p>
+
