@@ -16,7 +16,7 @@ I am particularly interested in opportunities that provide room for growth, lear
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ## About Me
-* 🌍  Based in Varanasi, India.
+* 🌍  Based in Noida, India.
 * 🔭 Currently developing MERN Stack web applications.
 * 🌱 Actively learning the MERN stack, data structures, algorithms.
 * 👯 Seeking collaboration opportunities on Open Source Projects.
@@ -70,21 +70,40 @@ I am particularly interested in opportunities that provide room for growth, lear
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
 </br>
 
-<h2>My Github Status 📊</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhsingh1515&show_icons=true&locale=en&layout=compact" alt="ShubhamSingh" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhsingh1515&show_icons=true&locale=en" alt="ShubhamSingh" /></p>
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhsingh1515&" alt="ShubhamSingh" /></p>
+<h2 align="center">My Github Status 📊</h2>
 
-<h2>LeetCode Status 📊</h2>
-<p> <a href="https://github.com/shubh1515/LeetCode-Stats-Card" target="_blank">
+<!-- First Row (Two Cards Side-by-Side) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhsingh1515&theme=dark&show_icons=true&locale=en&layout=compact" alt="Top Langs" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhsingh1515&theme=dark&show_icons=true&locale=en" alt="GitHub Stats" width="400" /> 
+</p>
+
+<!-- Second Row (Streak Stats Centered) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shubhsingh1515&theme=dark" alt="GitHub Streak" />
+</p>
+
+<h2 align="center">LeetCode Status 📊</h2>
+<p align="center"<a href="https://github.com/shubh1515/LeetCode-Stats-Card" target="_blank">
     <img title="ShubhamSingh LeetCode Stats" alt="ShubhamSingh's LeetCode Stats" src="https://leetcard.jacoblin.cool/shubh1515?ext=heatmap" /> </p>
  
- <h2>Hackerrank Status 📊</h2>
- <p>  <a href="https://www.hackerrank.com/shubh1515" target="blank">
+ <h2 align="center">Hackerrank Status 📊</h2>
+ <p align="center">  <a href="https://www.hackerrank.com/shubh1515" target="blank">
    <img src="https://github.com/shubhsingh1515/shubhsingh1515/blob/main/badges.png" alt="Badges"/>
  <img src="https://github.com/shubhsingh1515/shubhsingh1515/blob/main/certificates.png" alt="Certificates"/>
  </p>
 
- <h2>Dev Card</h2>
+ [![Shubham's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhsingh1515&theme=react-dark)](https://github.com/shubhsingh1515)
+
+ <h2 align="center">Dev Card</h2>
 <p><a href="https://app.daily.dev/shubh1515"><img src="https://api.daily.dev/devcards/v2/WYbg2emGISyeYm4CPfwb2.png?type=default&r=ig2" width="356" alt="Shubham Singh's Dev Card"/></a></p>
+
+
+### ☕ Buy Me a Coffee
+If you like my work, consider supporting me:
+<br>
+<a href="https://www.buymeacoffee.com/shubh1515" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
+
+![Building](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)  
+*Always learning, always building!*  
 
