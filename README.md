@@ -80,7 +80,7 @@ I am particularly interested in opportunities that provide room for growth, lear
 
 <!-- Second Row (Streak Stats Centered) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shubhsingh1515&theme=dark" alt="GitHub Streak" />
+  <img src="https://camo.githubusercontent.com/95e6be0a03967026585d6adfb6788998aea909ac379e5189d6d8da2c9f86e789/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d736875626873696e676831353135267468656d653d6461726b" alt="GitHub Streak" />
 </p>
 
 <h2 align="center">LeetCode Status 📊</h2>
