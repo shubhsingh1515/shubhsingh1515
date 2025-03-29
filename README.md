@@ -2,14 +2,16 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 </br>
-<p>As an aspiring full-stack developer specializing in the MERN stack, I am driven by a profound passion for continuous learning and an insatiable curiosity. My technical journey is fueled by an unwavering optimism and a relentless pursuit of knowledge.</br>
-I thrive on tackling new challenges and acquiring new skills, always eager to push the boundaries of my expertise. My social nature enables me to engage effectively with diverse teams, fostering an environment of collaboration, innovation, and knowledge sharing.</br>
-Currently, I am seeking a dynamic role as a full-stack web developer, where I can leverage my technical proficiency and enthusiasm for development to contribute meaningfully to innovative projects.</br>
-I am particularly interested in opportunities that provide room for growth, learning, and the chance to work on cutting-edge technologies and impactful solutions.</p>
+<p>As a full-stack developer specializing in the MERN stack, I am driven by a profound passion for continuous learning and an insatiable curiosity. My technical journey is fueled by an unwavering optimism and a relentless pursuit of knowledge.
+
+Currently working as a software developer, I have honed my skills in building scalable and efficient web applications. I thrive on tackling new challenges and acquiring new skills, always eager to push the boundaries of my expertise. My social nature enables me to engage effectively with diverse teams, fostering an environment of collaboration, innovation, and knowledge sharing.
+
+I am seeking a dynamic role as a full-stack web developer, where I can leverage my technical proficiency and enthusiasm for development to contribute meaningfully to innovative projects. I am particularly interested in opportunities that provide room for growth, learning, and the chance to work on cutting-edge technologies and impactful solutions.</p>
 </br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhsingh1515&label=Profile%20views&color=0e75b6&style=flat" alt="ShubhamSingh" /> </p>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=shubhsingh1515" alt="ShubhamSingh" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=shubhsingh1515&theme=algolia" alt="ShubhamSingh" /></a> </p>
 
 <p align="left"> <a href="https://x.com/shubh_singh1515" target="blank"><img src="https://img.shields.io/twitter/follow/ShubhamSingh?logo=twitter&style=for-the-badge" alt="ShubhamSingh" /></a> </p>
 
