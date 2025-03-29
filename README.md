@@ -1,4 +1,4 @@
- <img align="center" alt="GIF" clear="both" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" width="100%" style="height: 500px;" />
+ <img align="center" alt="GIF" clear="both" src="hhttps://github.com/shubhsingh1515/shubhsingh1515/blob/main/images/fds.gif" width="100%" style="height: 500px;" />
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 </br>
@@ -16,17 +16,17 @@ I am particularly interested in opportunities that provide room for growth, lear
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ## About Me
-* 🌍  Based in Noida, India.
-* 🔭 Currently developing MERN Stack web applications.
-* 🌱 Actively learning the MERN stack, data structures, algorithms.
-* 👯 Seeking collaboration opportunities on Open Source Projects.
-* 🤔 Looking for guidance on developing web applications.
-* 📫 Reach me at shubhsingh1515@gmail.com.
-* ⚡ Fun Fact: "Don't stop until you are proud." - Keep pushing the boundaries!
-* 💬 Feel free to ask me anything; I'm here to help.
-* 👨‍💻 Check out my portfolio: [Shubham Singh's Portfolio](https://p-6nib.onrender.com/)
-* Let's connect, code, and create something extraordinary!
 
+- 🌍  Based in Noida, India.
+- 🔭 Currently developing MERN Stack web applications.
+- 🌱 Actively learning the MERN stack, data structures, algorithms.
+- 👯 Seeking collaboration opportunities on Open Source Projects.
+- 🤔 Looking for guidance on developing web applications.
+- 📫 Reach me at shubhsingh1515@gmail.com.
+- ⚡ Fun Fact: "Don't stop until you are proud." - Keep pushing the boundaries!
+- 💬 Feel free to ask me anything; I'm here to help.
+- 👨‍💻 Check out my portfolio: [Shubham Singh's Portfolio](https://p-6nib.onrender.com/)
+- Let's connect, code, and create something extraordinary!
 
 <h2 align="left">Connect with me <img src='https://user-images.githubusercontent.com/69167064/159184623-31d54ed6-95b7-4522-9da7-2ce0d07457df.gif' width="80px"></h2>
 </br>
@@ -93,17 +93,16 @@ I am particularly interested in opportunities that provide room for growth, lear
  <img src="https://github.com/shubhsingh1515/shubhsingh1515/blob/main/certificates.png" alt="Certificates"/>
  </p>
 
- [![Shubham's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhsingh1515&theme=react-dark)](https://github.com/shubhsingh1515)
+[![Shubham's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhsingh1515&theme=react-dark)](https://github.com/shubhsingh1515)
 
  <h2 align="center">Dev Card</h2>
 <p><a href="https://app.daily.dev/shubh1515"><img src="https://api.daily.dev/devcards/v2/WYbg2emGISyeYm4CPfwb2.png?type=default&r=ig2" width="356" alt="Shubham Singh's Dev Card"/></a></p>
 
-
 ### ☕ Buy Me a Coffee
+
 If you like my work, consider supporting me:
 <br>
 <a href="https://www.buymeacoffee.com/shubh1515" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ![Building](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)  
-*Always learning, always building!*  
-
+_Always learning, always building!_
