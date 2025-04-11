@@ -15,7 +15,7 @@ I am seeking a dynamic role as a full-stack web developer, where I can leverage 
 
 <p align="left"> <a href="https://x.com/shubh_singh1515" target="blank"><img src="https://img.shields.io/twitter/follow/ShubhamSingh?logo=twitter&style=for-the-badge" alt="ShubhamSingh" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/shubhsingh1515/shubhsingh1515/blob/main/images/aicode.png" />
+<img align="right" alt="Coding" width="400" height="380" src="https://github.com/shubhsingh1515/shubhsingh1515/blob/main/images/aicode.png" />
 
 ## About Me
 
