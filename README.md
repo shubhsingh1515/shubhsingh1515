@@ -100,9 +100,9 @@ I am seeking a dynamic role as a full-stack web developer, where I can leverage 
  <h2 align="center">Dev Card</h2>
 <p><a href="https://app.daily.dev/shubh1515"><img src="https://api.daily.dev/devcards/v2/WYbg2emGISyeYm4CPfwb2.png?type=default&r=ig2" width="356" alt="Shubham Singh's Dev Card"/></a></p>
 
-### ☕ Buy Me a Coffee
+### 💼 Support My Work
 
-If you like my work, consider supporting me:
+If you find my projects valuable or inspiring, consider supporting my work — your encouragement helps me keep building and improving!
 <br>
 <a href="https://www.buymeacoffee.com/shubh1515" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 
