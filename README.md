@@ -98,9 +98,9 @@ I am seeking a dynamic role as a full-stack web developer, where I can leverage 
 [![Shubham's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhsingh1515&theme=react-dark)](https://github.com/shubhsingh1515)
 
  <h2 align="center">Dev Card</h2>
-<p><a href="https://app.daily.dev/shubh1515"><img src="https://api.daily.dev/devcards/v2/WYbg2emGISyeYm4CPfwb2.png?type=default&r=ig2" width="356" alt="Shubham Singh's Dev Card"/></a></p>
+<p align="center"><a href="https://app.daily.dev/shubh1515"><img src="https://api.daily.dev/devcards/v2/WYbg2emGISyeYm4CPfwb2.png?type=default&r=ig2" width="356" alt="Shubham Singh's Dev Card"/></a></p>
 
-### 💼 Support My Work
+<h2 align="center"> 💼 Support My Work </h2>
 
 If you find my projects valuable or inspiring, consider supporting my work — your encouragement helps me keep building and improving!
 <br>
