@@ -27,7 +27,7 @@ I am seeking a dynamic role as a full-stack web developer, where I can leverage 
 - 📫 Reach me at shubhsingh1515@gmail.com.
 - ⚡ Fun Fact: "Don't stop until you are proud." - Keep pushing the boundaries!
 - 💬 Feel free to ask me anything; I'm here to help.
-- 👨‍💻 Check out my portfolio: [Shubham Singh's Portfolio](https://shubhtech.vercel.app/)
+- 👨‍💻 Check out my portfolio: [Shubham Singh's Portfolio](https://p-6nib.onrender.com/)
 - Let's connect, code, and create something extraordinary!
 
 <h2 align="left">Connect with me <img src='https://user-images.githubusercontent.com/69167064/159184623-31d54ed6-95b7-4522-9da7-2ce0d07457df.gif' width="80px"></h2>
@@ -92,7 +92,7 @@ I am seeking a dynamic role as a full-stack web developer, where I can leverage 
  <h2 align="center">Hackerrank Status 📊</h2>
  <p align="center">  <a href="https://www.hackerrank.com/shubh1515" target="blank">
    <img src="https://github.com/shubhsingh1515/shubhsingh1515/blob/main/badges.png" alt="Badges"/>
- <img src="https://github.com/shubhsingh1515/shubhsingh1515/blob/main/certificates.png" alt="Certificates"/>
+ <img src="https://github.com/shubhsingh1515/shubhsingh1515/blob/main/certificate.png" alt="Certificates"/>
  </p>
 
 [![Shubham's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhsingh1515&theme=react-dark)](https://github.com/shubhsingh1515)
