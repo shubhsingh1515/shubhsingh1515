@@ -100,6 +100,12 @@ I am seeking a dynamic role as a full-stack web developer, where I can leverage 
  <h2 align="center">Dev Card</h2>
 <p align="center"><a href="https://app.daily.dev/shubh1515"><img src="https://api.daily.dev/devcards/v2/WYbg2emGISyeYm4CPfwb2.png?type=default&r=ig2" width="356" alt="Shubham Singh's Dev Card"/></a></p>
 
+
+<h2 align="center"> 📝 Recent Medium Blogs </h2>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h2 align="center"> 💼 Support My Work </h2>
 
 If you find my projects valuable or inspiring, consider supporting my work — your encouragement helps me keep building and improving!
