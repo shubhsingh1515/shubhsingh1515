@@ -104,11 +104,11 @@ I am seeking a dynamic role as a full-stack web developer, where I can leverage 
 <h2 align="center"> 📝 Recent Medium Blogs </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [JSON vs TOON: The New Battle of Data Formats in the AI Era](https://shubh1515.medium.com/json-vs-toon-the-new-battle-of-data-formats-in-the-ai-era-bf072655adfe?source=rss-e563ac5db78e------2)
 - [Building an AI Inbound Calling Solution with Vapi, and Node.js + React.js](https://shubh1515.medium.com/building-an-ai-inbound-calling-solution-with-vapi-and-node-js-react-js-fd5b786197ea?source=rss-e563ac5db78e------2)
 - [Building a Smart AI Calling Agent with Vapi, Twilio, and n8n](https://shubh1515.medium.com/building-a-smart-ai-calling-agent-with-vapi-twilio-and-n8n-ded9d5f27c4b?source=rss-e563ac5db78e------2)
 - [PM2: The Ultimate Guide to Managing Node.js Applications in Production](https://shubh1515.medium.com/pm2-the-ultimate-guide-to-managing-node-js-applications-in-production-2dc530964046?source=rss-e563ac5db78e------2)
 - [Getting Started with Docker: Simplifying Containerization for Modern Development](https://shubh1515.medium.com/getting-started-with-docker-simplifying-containerization-for-modern-development-9b2efa14de11?source=rss-e563ac5db78e------2)
-- [Why Developers Are Moving to Bun.js: A Faster JavaScript Runtime for the Modern Web](https://shubh1515.medium.com/why-developers-are-moving-to-bun-js-a-faster-javascript-runtime-for-the-modern-web-a71c51ddeaaf?source=rss-e563ac5db78e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center"> 💼 Support My Work </h2>
