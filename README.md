@@ -72,6 +72,16 @@ I am seeking a dynamic role as a full-stack web developer, where I can leverage 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
 </br>
 
+## 💡 What I Do Best  
+
+- Full-Stack Web Development (MERN)  
+- Building REST APIs & Microservices  
+- Authentication (JWT, OAuth, Sessions)  
+- Real-Time Features (Socket.io)  
+- AI Integrations (Vapi, Twilio, n8n, OpenAI APIs)  
+- Database Optimization (MongoDB Aggregation, Indexing)  
+
+
 <h2 align="center">My Github Status 📊</h2>
 
 <!-- First Row (Two Cards Side-by-Side) -->
@@ -118,4 +128,9 @@ If you find my projects valuable or inspiring, consider supporting my work — y
 <a href="https://www.buymeacoffee.com/shubh1515" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ![Building](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)  
+
+## 💬 Let's Collaborate  
+If you enjoy creating impactful, scalable web apps or experimenting with AI + automation tools,  
+let's connect and build something awesome! 🚀
+
 _Always learning, always building!_
