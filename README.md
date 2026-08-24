@@ -27,7 +27,7 @@ I am seeking a dynamic role as a full-stack web developer, where I can leverage 
 - 📫 Reach me at shubhsingh1515@gmail.com.
 - ⚡ Fun Fact: "Don't stop until you are proud." - Keep pushing the boundaries!
 - 💬 Feel free to ask me anything; I'm here to help.
-- 👨‍💻 Check out my portfolio: [Shubham Singh's Portfolio](https://shubhtech.vercel.app/)
+- 👨‍💻 Check out my portfolio: [Shubham Singh's Portfolio](https://shubhtech.online/)
 - Let's connect, code, and create something extraordinary!
 
 <h2 align="left">Connect with me <img src='https://user-images.githubusercontent.com/69167064/159184623-31d54ed6-95b7-4522-9da7-2ce0d07457df.gif' width="80px"></h2>
