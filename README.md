@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://shubhtech.online/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/shubhsingh1515/shubhsingh1515/main/images/shubh1515.gif" alt="Shubham Singh Header Banner" width="100%" />
+    <img src="https://raw.githubusercontent.com/shubhsingh1515/shubhsingh1515/main/images/shubh1515.gif" alt="Shubham Singh — Software Engineer, Full-Stack Development and AI Automation" width="100%" />
   </a>
 
   <br/><br/>
