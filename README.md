@@ -361,11 +361,11 @@
   <br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [Engineering Secure AI Agents: Permissions, Sandboxing, and Zero Trust](https://shubh1515.medium.com/engineering-secure-ai-agents-permissions-sandboxing-and-zero-trust-42f8e72f229a?source=rss-e563ac5db78e------2)
+- [Understanding Google’s A2A Protocol for AI Agent Communication](https://shubh1515.medium.com/understanding-googles-a2a-protocol-for-ai-agent-communication-d127d67a94b7?source=rss-e563ac5db78e------2)
+- [WebMCP Explained: The Future of AI-Friendly Websites](https://shubh1515.medium.com/webmcp-explained-the-future-of-ai-friendly-websites-991c866d0acc?source=rss-e563ac5db78e------2)
+- [HTTP Finally Gets a QUERY Method: Why GET and POST Were Never Enough](https://shubh1515.medium.com/http-finally-gets-a-query-method-why-get-and-post-were-never-enough-ab1456ff20bd?source=rss-e563ac5db78e------2)
 - [Why You Should Learn Next.js in 2026](https://shubh1515.medium.com/why-you-should-learn-next-js-in-2026-a18228cb2d31?source=rss-e563ac5db78e------2)
-- [JSON vs TOON: The New Battle of Data Formats in the AI Era](https://shubh1515.medium.com/json-vs-toon-the-new-battle-of-data-formats-in-the-ai-era-bf072655adfe?source=rss-e563ac5db78e------2)
-- [Building an AI Inbound Calling Solution with Vapi, and Node.js + React.js](https://shubh1515.medium.com/building-an-ai-inbound-calling-solution-with-vapi-and-node-js-react-js-fd5b786197ea?source=rss-e563ac5db78e------2)
-- [Building a Smart AI Calling Agent with Vapi, Twilio, and n8n](https://shubh1515.medium.com/building-a-smart-ai-calling-agent-with-vapi-twilio-and-n8n-ded9d5f27c4b?source=rss-e563ac5db78e------2)
-- [PM2: The Ultimate Guide to Managing Node.js Applications in Production](https://shubh1515.medium.com/pm2-the-ultimate-guide-to-managing-node-js-applications-in-production-2dc530964046?source=rss-e563ac5db78e------2)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
